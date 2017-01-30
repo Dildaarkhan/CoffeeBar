@@ -31,3 +31,5 @@ C:\Users\User\Documents\Visual Studio 2015\Projects\LexiconExcerciseOne\CoffeeBa
 C:\Users\User\Documents\Visual Studio 2015\Projects\LexiconExcerciseOne\CoffeeBar\CoffeeBar\obj\Debug\CoffeeBar.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\Visual Studio 2015\Projects\LexiconExcerciseOne\CoffeeBar\CoffeeBar\obj\Debug\CoffeeBar.dll
 C:\Users\User\Documents\Visual Studio 2015\Projects\LexiconExcerciseOne\CoffeeBar\CoffeeBar\obj\Debug\CoffeeBar.pdb
+C:\Users\NaxNordic AB\Documents\GitHub\CoffeeBar\CoffeeBar\obj\Debug\CoffeeBar.dll
+C:\Users\NaxNordic AB\Documents\GitHub\CoffeeBar\CoffeeBar\obj\Debug\CoffeeBar.pdb
