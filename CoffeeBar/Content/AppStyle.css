@@ -1,0 +1,27 @@
+﻿.navbar-inverse {
+    background-color: #291810;
+    height:100px;
+   
+}
+
+/*.navbar-brand{
+    padding-left:0px;
+    padding-top:0px;
+    margin-top:0px;
+   
+    }*/
+
+
+.navbar-right>li{
+    color:blue;
+}
+.footer{
+    margin-top:600px;
+    background-color: #291810;
+    height:200px;
+
+}
+.divul{
+
+    margin-top:300px;
+}
